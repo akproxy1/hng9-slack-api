@@ -13,7 +13,7 @@ app.use("/", routes);
 
 const slack = 
   {
-    slackUsername: "proxiiman",
+    slackUsernamee: "proxiiman",
     backend: true,
     age: 34,
     bio: "I am Akeem, a web developer",
