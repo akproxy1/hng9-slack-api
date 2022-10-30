@@ -1,5 +1,4 @@
 exports.example = (req, res) => {
-    console.log("example")
     const slack = 
   {
     slackUsername: "proxiiman",
